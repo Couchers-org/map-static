@@ -4,7 +4,7 @@
       "protomaps": {
           "type": "vector",
           "url": "https://map-tiles.couchershq.com/20240812.json",
-          "attribution": "&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap</a>"
+          "attribution": "&copy; <a href=\"https://couchers.org\">Couchers, Inc.</a> | Data &copy; <a href=\"https://openstreetmap.org\">OpenStreetMap</a>"
       }
   },
   "sprite": "https://map-static.couchershq.com/sprites/pm-v3/light",
