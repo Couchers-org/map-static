@@ -1,3 +1,3 @@
 export $(xargs <.env)
 
-aws s3 sync ./map-static s3://couchers-map-static --delete --endpoint-url=$CF_ENDPOINT_URL
+aws s3 sync ./static s3://maps.couchershq.org/static --delete

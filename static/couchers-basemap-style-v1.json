@@ -3,12 +3,12 @@
   "sources": {
       "protomaps": {
           "type": "vector",
-          "url": "https://map-tiles.couchershq.com/20240812.json",
+          "url": "https://maps.couchershq.org/20240812.json",
           "attribution": "&copy; <a href=\"https://couchers.org\">Couchers, Inc.</a> | Data &copy; <a href=\"https://openstreetmap.org\">OpenStreetMap</a>"
       }
   },
-  "sprite": "https://map-static.couchershq.com/sprites/pm-v3/light",
-  "glyphs": "https://map-static.couchershq.com/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://map-static.couchershq.org/static/sprites/pm-v3/light",
+  "glyphs": "https://map-static.couchershq.org/static/fonts/{fontstack}/{range}.pbf",
   "layers": [
       {
           "id": "background",
