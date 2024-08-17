@@ -7,8 +7,8 @@
           "attribution": "&copy; <a href=\"https://couchers.org\">Couchers, Inc.</a> | Data &copy; <a href=\"https://openstreetmap.org\">OpenStreetMap</a>"
       }
   },
-  "sprite": "https://map-static.couchershq.org/static/sprites/pm-v3/light",
-  "glyphs": "https://map-static.couchershq.org/static/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://maps.couchershq.org/static/sprites/pm-v3/light",
+  "glyphs": "https://maps.couchershq.org/static/fonts/{fontstack}/{range}.pbf",
   "layers": [
       {
           "id": "background",
