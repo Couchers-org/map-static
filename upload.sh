@@ -1,3 +1,3 @@
 export $(xargs <.env)
 
-aws s3 sync ./static s3://maps.couchershq.org/static --delete
+aws s3 sync ./static s3://cdn.couchers.org/maps --delete
