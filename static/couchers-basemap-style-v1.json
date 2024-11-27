@@ -2467,7 +2467,7 @@
               ],
               "text-field": [
                   "get",
-                  "name"
+                  "name:en"
               ],
               "text-size": 12,
               "text-letter-spacing": 0.3
@@ -2495,7 +2495,7 @@
               ],
               "text-field": [
                   "get",
-                  "name"
+                  "name:en"
               ],
               "text-size": [
                   "interpolate",
@@ -2545,7 +2545,7 @@
               ],
               "text-field": [
                   "get",
-                  "name"
+                  "name:en"
               ],
               "text-size": 13
           },
@@ -2674,7 +2674,7 @@
               ],
               "text-field": [
                   "get",
-                  "name"
+                  "name:en"
               ],
               "text-size": 14
           },
@@ -2699,7 +2699,7 @@
                   "get",
                   "pmap:min_zoom"
               ],
-              "text-field": "{name}",
+              "text-field": "{name:en}",
               "text-font": [
                   "Inter Tight Regular"
               ],
@@ -2767,7 +2767,7 @@
                   ""
               ],
               "icon-size": 0.7,
-              "text-field": "{name}",
+              "text-field": "{name:en}",
               "text-font": [
                   "case",
                   [
@@ -3016,7 +3016,7 @@
                   6,
                   [
                       "get",
-                      "name"
+                      "name:en"
                   ]
               ],
               "text-font": [
